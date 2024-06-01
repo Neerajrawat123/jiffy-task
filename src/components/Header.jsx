@@ -10,14 +10,14 @@ function Header() {
           <img src="src/assets/logo-name.svg" alt="logo" />
         </div>
         <div>
-          <ul className="flex justify-between">
+          <ul className="flex justify-between gap-2">
             <li>
               <a className="text-links" href="">
                 Home
               </a>
             </li>
             <li>
-              <a className="flex text-links items-center gap-2" href="">
+              <a className="flex text-links items-center gap-[6px]" href="">
                 Blockchain{" "}
                 <span className="w-[25px] h-[25px] flex items-center ">
                   <img src="src/assets/arrow.svg" alt="" />{" "}
@@ -25,7 +25,7 @@ function Header() {
               </a>
             </li>
             <li>
-              <a className="flex text-links items-center gap-2" href="">
+              <a className="flex text-links items-center gap-[6px]" href="">
                 Developer{" "}
                 <span className="w-[25px] h-[25px] flex items-center">
                   <img src="src/assets/arrow.svg" alt="" />{" "}
@@ -33,7 +33,7 @@ function Header() {
               </a>
             </li>
             <li>
-              <a className="flex text-links items-center gap-2" href="">
+              <a className="flex text-links items-center gap-[6px]" href="">
                 More{" "}
                 <span className="w-[25px] h-[25px] flex items-center">
                   <img src="src/assets/arrow.svg" alt="" />{" "}
