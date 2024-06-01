@@ -17,7 +17,7 @@ Make sure you have the following installed:
 
 ### Steps
 
-1. **Clone the repository:**
+1. **Clone the repository and run:**
 
    ```sh
    git clone https://github.com/your-username/mycomponent-project.git
